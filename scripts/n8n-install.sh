@@ -6,7 +6,7 @@ set -euo pipefail
 
 # ===== defaults =====
 DEFAULT_TZ="America/Edmonton"
-DEFAULT_DOMAIN="demo.demostest.org"
+DEFAULT_DOMAIN="yourdomain.com"
 DEFAULT_N8N_DIR="/opt/n8n"
 DEFAULT_N8N_USER="deploy"
 DEFAULT_DB_PASS="$(openssl rand -hex 16)"
