@@ -16,7 +16,7 @@ This version includes **safety patches** to prevent crashes when the domain or c
 ## 🚀 Quick Start
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/ReyadWeb/n8n-easy-install/main/scripts/n8n-install.sh -o n8n-install-v2.sh
+curl -fsSL https://raw.githubusercontent.com/ReyadWeb/n8n-easy-install/scripts/n8n-install.sh -o n8n-install.sh
 chmod +x n8n-install.sh
 sudo ./n8n-install.sh
 ```
